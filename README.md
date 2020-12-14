@@ -27,7 +27,9 @@ For segmentation problems we can use the following metrics and losses:
   Since pixel accuracy isn't suited for this problem, we will take into consideration the other two metrics. (there is implementation of pixel accuracy in the code itself)
   
   The results were: 
+  
   Jaccard coeff -> 88%
+  
   Dice coefficient -> 87%
   
   ## Prediction
