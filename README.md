@@ -3,4 +3,4 @@ Here's an example of convolutional neural network with UNET architecture that's 
 
 # UNET Architecture
 
-![alt text] https://github.com/trsavi/UNET-segmentation/issues/1#issue-766929539 
+![alt text]https://github.com/trsavi/UNET-segmentation/issues/1#issue-766929539 
