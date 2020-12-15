@@ -32,9 +32,7 @@ For segmentation problems we can use the following metrics and losses:
   
   Dice coefficient -> 87%
   
-  ## Prediction
-  
-  ![](TruthMaskPredicted.png)
+
  
   References and original code (mine is combination and modification of few examples) for this problem can be found on these links:
   - https://github.com/bsamaha/Chest-Xray-FastAI/blob/master/ChestX_ray_Fastaiv1_Imgclassifier.ipynb
